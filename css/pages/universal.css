@@ -146,14 +146,8 @@ code{
 }
 @media(max-width:385px){
 	#brandimg{
-		height:220%;
-	margin-top:-10px
-	}
-}
-@media(max-width:320px){
-	#brandimg{
-		height:210%;
-		margin-top:0px
+	height:150%;
+	margin-top:0px
 	}
 }
 tr{
