@@ -77,7 +77,25 @@ body{
 	color: #fff
 }
 .navbar{
-	margin-bottom: 0!important
+	margin-bottom: 0!important;
+}
+@supports (-webkit-backdrop-filter: blur(15px)) or (backdrop-filter: blur(15px)) {
+	.navbar.blur{
+		backdrop-filter: blur(15px);
+		-webkit-backdrop-filter: blur(15px);
+	}
+	.navbar-inverse {
+	    background-color: #000000aa;
+	    border-color: transparent!important;
+	}
+}
+
+@supports not ((-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))) {
+	.navbar.blur{
+	}
+	.navbar-inverse {
+	    background-color: #222;
+	}
 }
 .navbar-default{
 	transition:0.25s ease-out
@@ -109,6 +127,11 @@ body{
 }
 .navbar-default.transparent .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color:transparent;
+}
+
+.navbar-inverse {
+    background-color: #00000088;
+    border-color: transparent;
 }
 /*jumbotron style*/
 .jumbotron{
