@@ -90,8 +90,9 @@ body{
 	}
 }
 
-@supports not ((-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))) {
+@supports not ((-webkit-backdrop-filter: blur(15px)) or (backdrop-filter: blur(15px))) {
 	.navbar.blur{
+		background-color: #222;
 	}
 	.navbar-inverse {
 	    background-color: #222;
