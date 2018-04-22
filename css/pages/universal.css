@@ -85,7 +85,7 @@ body{
 		-webkit-backdrop-filter: blur(15px);
 	}
 	.navbar-inverse {
-	    background-color: #000000aa;
+	    background-color: #000000a9;
 	    border-color: transparent!important;
 	}
 }
@@ -128,11 +128,6 @@ body{
 }
 .navbar-default.transparent .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color:transparent;
-}
-
-.navbar-inverse {
-    background-color: #00000088;
-    border-color: transparent;
 }
 /*jumbotron style*/
 .jumbotron{
