@@ -30,7 +30,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a id="backtotop" class="hide" onclick="backtop(); return false" style="cursor:pointer;">返回顶部</a></li>
 						<li id="dashboard" class="hide active"><a>概览</a></li>
-						<li><a title="敬请期待" style="cursor:not-allowed;">探路者</a></li>
+						<li><a title="敬请期待" style="cursor:not-allowed;">寻探青年</a></li>
 						<li><a title="敬请期待" style="cursor:not-allowed;">最合拍</a></li>
 						<li><a title="敬请期待" style="cursor:not-allowed;">好奇心</a></li>
 						<li><a title="敬请期待" style="cursor:not-allowed;">手艺人</a></li>
@@ -40,15 +40,14 @@
 				</div><!-- /.container-fluid -->
 		</nav>
 
-		<div class="jumbotron head" id="jumbo" style="background-image:linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),url(res/banner/1.jpg)!important">
+		<div class="jumbotron head" id="jumbo" style="">
 			<div class="container" id="searchpanel">
 				<center id="ctr">
-					<h4 style="font-size:2em;color:#fff">特别策划</h4>
-					<h1 style="color:#fff">绘途计划</h1>
-					<h1 style="color:#fff">用轨迹丈量每一个远方</h1>
+					<h4 id="subtitle" style="font-size:2em;color:#fff"></h4>
+					<h1 id="title" style="color:#fff"></h1>
 					<br>
 					<div id="actionbtn" class="form-group" style="width:50%">
-					<a href="https://toocheer.github.io/RouteTrace/" type="button" class="btn-link" style="font-size:1.2em;margin-top:10px;color:#bbb">立刻了解 ></a>
+						<a id="linkbut" href="" type="button" class="btn-link" style="font-size:1.2em;margin-top:10px;color:#bbb"></a>
 					</div>
 				</center>
 			</div>
@@ -58,7 +57,7 @@
 			<div class="container" style="margin-top:5%">
 				<center>
 					<h4 style="color:#fff">探索荒野痕迹，寻回故道记忆</h4>
-					<h1 style="color:#fff">同趣+探路者</h1>
+					<h1 style="color:#fff">同趣+寻探青年</h1>
 					<br>
 					<h3 style="color:#fff">故道，旧建筑和未知的荒野，</h3>
 					<h3 style="color:#fff">从中收获别样的探索乐趣。</h3>
@@ -241,4 +240,30 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/pages/index.js"></script>
+<script type="text/javascript">
+var i = 0;
+
+var txt = '{"Banner":[' +
+'{"Subtitle":"特别策划","Maintitle":"绘途计划<br>用轨迹丈量每一个远方","Btntxt":"立刻了解 >","Linkadd":"https://toocheer.github.io/RouteTrace/","Image":"linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),url(res/banner/1.jpg)" },' +
+'{"Subtitle":"开源地图数据库计划","Maintitle":"看得有多广<br>向往就有多远","Btntxt":"立即浏览 >","Linkadd":"https://toocheer.github.io/maps/","Image":"linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),url(res/banner/7.jpg)" },' +
+'{"Subtitle":"同趣 × 寻访3.0","Maintitle":"我来， 我见<br>我是「寻探青年」","Btntxt":"即将推出 >","Linkadd":"","Image":"linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),url(res/banner/3.jpg)" }]}';
+
+var obj = eval ("(" + txt + ")");
+
+setInterval(function (){
+document.getElementById("subtitle").innerHTML=obj.Banner[i].Subtitle 	
+document.getElementById("title").innerHTML=obj.Banner[i].Maintitle
+document.getElementById("linkbut").innerHTML=obj.Banner[i].Btntxt
+document.getElementById("linkbut").href=obj.Banner[i].Linkadd 
+document.getElementById("jumbo").style.backgroundImage=obj.Banner[i].Image
+}, 2000); 
+
+setInterval(function Count(){
+	i++;
+	if (i == 3) {
+		i = -1;
+		Count();
+	}
+}, 8500);
+</script>
 </html>
