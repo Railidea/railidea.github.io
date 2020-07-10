@@ -1,40 +1,40 @@
 相对小众？我相信即便是济南本地人，知道这个博物馆存在的也绝对不多，来参观过的少之又少——外地游客就更不会把它列为旅游目的地了。专门类博物馆规模和受众都有限，名气普遍不大，另一个原因是尽管胶济铁路博物馆已经建成了很多年，但直到今年4月份才开始对公众开放。胶济博物馆就在家门口，当然没有不去转一圈的道理。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/1.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5L90.jpg)
 
 入场换票，常规操作。胶济馆的参观券设计很精致，正面是建筑和馆徽，背面是须知和一台东风4B机车。竖排版的哑光硬卡纸，最下方印有序号，很有高级感，适合做书签。怪不得叫“参观留念”而不是门票一类，此处应该点名印软纸白条的各地博物馆们……
 
 馆内无论是藏品还是陈列思路、配套设施，都非常让人惊喜。主体建筑物本身就是胶济铁路济南站老站房，内外几乎原貌——这镇馆之宝就是博物馆大楼啊。很多济南市民有个误区，认为济南老火车站早已在上世纪九十年代扩建中被拆毁，从此不复存在。事实上，最初胶济和津浦铁路均在济南设站却不接轨，因此留有一南一北两座老“济南站”。两处站房均为德制建筑，在后来的运用中，胶济济南站扩建一次后退出使用，如今的胶济铁路正线实际落在了当年津浦济南站的位置，而津浦（京沪）铁路正线则不再经过济南市区——这是后话了。主体被拆除的老“济南站”是当时胶济铁路上的津浦老站，行包房等辅助设施也还存在，现已作为济南铁路局的办公场所。所以说，老济南站还有一个多一点，这一整个就是这座胶济铁路老济南站。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/2.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5HNn.jpg)
 
 	这是我们熟悉的津浦铁路老济南站
 
 	如果想在今天实际领略它的风貌，推荐去吉林西站一探
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/3.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM57As.jpg)
 
 	胶济铁路老济南站
 
 车站主体安排了三层五组陈列，基本陈列就是从胶济铁路修筑背景讲到当代济铁，时间顺序，辅以铁路对山东经济社会的一些影响。基本陈列里的布展非常认真。当天运气很好，遇到馆长本人为济局青岛员工讲解经验，青岛正筹建另一个胶济铁路博物馆。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/4.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5o7j.jpg)
 
 	参观路线第一件展品《胶澳志》
 
 不听馆长说我也想不到展品排放顺序如此讲究：之所以第一件是《胶澳志》目的是要提醒人们“胶济铁路”的“胶”来源于胶澳，而不是胶州湾等地名，算是纠正又一个常见误区了。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/5.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5IBQ.jpg)
 
 	贵宾候车室复原
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/6.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5bhq.jpg)
 
 	站长办公室复原
 
 模拟场景是个很常见的东西，但是，注意墙上的老照片！尤其是站长办公室这张，够不够真实！就连这把椅子也不是来凑数的，椅子背上还有剥落的红漆写着“货运室”——它是真的来自某个车站办公室。左上角这个大铁环是路签，在没有半自动闭塞的年代通过传递它和电报来许可列车进出区间。博物馆一楼有休息椅，更是非常硬核，都拆自胶济铁路上的各处车站候车室。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/7.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5xuF.jpg)
 
 	五七车站复原
 	五七车站是什么？请见延伸阅读[1]
@@ -51,17 +51,17 @@
 
 云南铁博也有一件，那个就比较厉害了，因为它还能走…… 另外碧色寨站站台上还挂着一件，完全原貌。胶济馆的这件三面钟是胶济铁路大港火车站翻修时拆下来的，不能走时，但完整且很精美（比起云南的来说）。顾名思义，三面钟有三面表盘，但为啥我们只能看见两面？没错，因为另一面在墙后面，是供室内的车站工作人员使用的。三个表盘统一机芯，走时一致，在站台上两个方向也都能看到，设计非常精巧。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/8.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5O3V.jpg)
 
 	三面钟和它在站台上的位置复原
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/9.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5jjU.jpg)
 	
 	仰视三面钟内部
 
 一楼：**钢枕钢轨**
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/10.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5XcT.jpg)
 	
 	钢枕钢轨
 
@@ -69,7 +69,7 @@
 
 一楼：**泺口黄河大桥图纸**
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/11.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMICNR.jpg)
 
 	泺口黄河大桥图纸
 
@@ -77,15 +77,15 @@
 
 馆内还有很多其他图纸，包括一份胶济铁路干支线概图，也是原件。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/12.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMISHJ.jpg)
 
 	红色线标注的是胶济铁路，红线分叉为胶济铁路黄台桥支线。图中的济南府还没有西侧的商埠区。
 
 一楼：**IS20型蒸汽机车模型**
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/13.jpg)
+![](https://s1.ax1x.com/2020/07/11/UM5zB4.jpg)
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/14.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMI9E9.jpg)
 
 	这个辆车只有一个缓冲饼
 
@@ -97,29 +97,29 @@
 
 博物馆收藏的小物件也非常有意思，专业的就是不一样：
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/15.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIP41.jpg)
 
 蒸汽机车铃，在车站内替代汽笛使用。它的作用有点像今天的机车电笛。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/16.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIAgK.jpg)
 
 铁路分局是个老概念了。中间的纸条是路票，用于调度列车。右侧的是火炬和响墩，通过火光和爆炸声向列车发出紧急信号——这两个家伙虽然原始，但现在依旧常备。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/17.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIk36.jpg)
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/18.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIF9x.jpg)
 
 五十年代的济南铁路局地图，原件在右下角的玻璃盖子里。注意，当时的济局南界达到了津浦铁路终点江苏南京。今天的济南铁路局管辖范围不足图中二分之一，在我手指的地方“利国”站与上海铁路局分界。车站圆圈内的标记是车站等级。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/19.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIEjO.jpg)
 
 日期机中正打出硬卡车票。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/20.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMImHH.jpg)
 
 井盖中间的标志为“华北交通株式会社”，在1933至1945年间活动，由日本军部管理。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/21.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIKUA.jpg)
 
 这块展牌由各个年代的济南铁路公章拼成，工作量应该着实很大。
 
@@ -127,41 +127,41 @@
 
 三层位于车站阁楼中，展品围绕着车站大钟：
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/22.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIZuD.jpg)
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/23.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIeDe.jpg)
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/24.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIM4I.jpg)
 
 大钟主体和零件被分别放置在中间几个展柜里，整个展厅会让你由衷表示
 
 Wow, awesome （运用自如）
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/25.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIuEd.jpg)
 
 海之情列车的奥运火炬传递签名旗。K171/2/3/4是我坐过无数次的一趟车，最早时青岛隔天发往兰州和西宁，现在车次是Z271/2/3/4。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/26.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMI18P.jpg)
 
 HO比例火车沙盘，沙盘不小，模型市面有售。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/27.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIlCt.jpg)
 
 东风4B的司机控制器和风笛
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/28.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMI3gf.jpg)
 
 ND5的风笛，大概济局认为自己的代表机车是ND5型，一楼大厅的醒目位置也是ND5的浮雕。济南西段里有一台ND5静态保存，还被特意把车号改成了0001……
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/29.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMI8v8.jpg)
 
 这是一组臂板信号机的臂板，第一次见。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/30.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMIJKS.jpg)
 
 这也可以有——CRH2的司机控制器，楼下还有它的受电弓滑板。
 
-![](./../docs/youthcovery/Jinan-railway-museum/img/31.jpg)
+![](https://s1.ax1x.com/2020/07/11/UMqIxI.jpg)
 
 这是阁楼的全貌了
 
