@@ -1,0 +1,29 @@
+{
+	"meta":[
+		{
+			"hero":"./../docs/youthcovery/Jinan-railway-museum/img/hero.jpg",
+			"title":"相对小众，绝对有趣",
+			"subtitle":"济南胶济铁路博物馆体验报告",
+			"date":"2019-11-27"
+		}
+	],
+	"isExpand":true,
+	"expand":[
+		{
+			"addr":"https://zhuanlan.zhihu.com/p/27497038",
+			"title":"寻访丨五七车站：隐藏在济南西郊的神秘小站"
+		},{
+			"addr":"https://zhuanlan.zhihu.com/p/52811366",
+			"title":"“菲利克斯·捷尔任斯基”的兄弟——“约瑟夫·斯大林”型蒸汽机车"
+		}
+	],
+	"author":[
+		{
+			"name":"铁道上的蓝鲸",
+			"intro":"鲸 看似浮沉无碍 实则上下求索",
+			"avatar":"./../docs/youthcovery/Jinan-railway-museum/img/avatar.jpg"
+		}
+	],
+	"pagetitle":"相对小众，绝对有趣——济南胶济铁路博物馆体验报告",
+	"type":"寻探青年"
+}

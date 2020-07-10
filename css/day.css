@@ -1,0 +1,33 @@
+html::-webkit-scrollbar,div::-webkit-scrollbar{
+	width:12px;
+	background:#fff;
+}
+html::-webkit-scrollbar-thumb,div::-webkit-scrollbar-thumb{
+	background-color: #999;
+}
+
+nav{
+	border-bottom:none!important;
+	background:#fff
+}
+a{
+	color:#000;
+}
+#app{
+	background-color: #fff!important;
+}
+
+.card{
+	background-color: #f8f8f8;
+}
+
+blockquote{
+	padding: 0.5em 1.5em 0.5em 1.5em;
+	background-color: #eee;
+	color: #888;
+	border-radius: 0.3em
+}
+
+.grey,pre code{
+	color: #aaa!important;
+}
